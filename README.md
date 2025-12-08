@@ -47,13 +47,6 @@ We combine **high-accuracy ensemble learning** with **interpretability**:
 
 ---
 
-## References
-
-Pima Indians Diabetes Dataset
-(https://www.researchgate.net/publication/384220180_Explainable_Artificial_Intelligence_for_Prediction_of_Diabetes_using_Stacking_Classifier)
-
----
-
 ## 🛠 Installation
 
 ```bash
